@@ -8,3 +8,19 @@
 * {
     outline: 1px dotted black;
 }
+
+
+/* Global.Site.Base */
+
+/* Home Page */
+.home {
+  background: teal;
+}
+/* Bio */
+.bio {
+  background: turquoise;
+}
+/* Contact */
+.contact{
+  background: thistle;
+}
