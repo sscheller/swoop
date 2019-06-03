@@ -11,6 +11,16 @@
 
 
 /* Global.Site.Base */
+ 
+h1 {
+  font-size: 5em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h1 span:nth-child(even) {
+  color: thistle;
+}
 
 /* Home Page */
 .home {
